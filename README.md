@@ -79,23 +79,3 @@ You can get help by running:
 ./go run *.go  -done 1
 ./go run *.go  -remove 2
 ./go run *.go  -list
-
-
-## Contribution
-Contributions are welcome! If you have suggestions, ideas, or want to report a bug, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT !License. See the LICENSE file for details.
-
-
-
-# Project working samples image
-
-![Task Manager Screenshot](/images/Screenshot05.png)
-
-![Task Manager Screenshot](images/Screenshot1.png)
-
-# Terminal Image output
-![Task Manager Screenshot](images/Output01.png)
-
-![Task Manager Screenshot](images/Output02.png)
